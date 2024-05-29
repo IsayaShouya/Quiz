@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<html lang="pt br">
+	<head>
+		<meta charset ="UTF-8">
+		<title> 
+			Site Quiz
+		</title>
+		<style>
+			body{
+				background-image: url(Fundomatematica.jpg);
+				
+		}
+			#Quiz{
+				font-weight: bold;
+				font-size: 55px;
+				text-align: center;
+				color: white;
+		}
+			main{
+				display: flex;
+		}
+			#linkQuiz{
+				
+				background-color: red;
+				margin: 10px;
+				border-radius: 20px;
+				color: black;
+				text-align: center;
+				position: center;
+				margin-left: 510px;
+				font-size: 50px;
+
+		}
+			#linkQuiz: hover{
+				cursor: pointer;
+				background-color: orange;
+				margin: 10px;
+				border-radius: 20px;
+				color: white;
+				position: center;
+
+		}
+			#linkPodio{
+				
+				background-color: green;
+				margin: 10px;
+				border-radius: 20px;
+				color: black;
+				text-align: center;
+				margin-left: 50px;
+				font-size: 50px;
+				
+
+		}
+			#linkPodio: hover{
+				cursor: pointer;
+				background-color: orange;
+				margin: 10px;
+				border-radius: 20px;
+				color: white;
+
+		}
+			#CE{
+    				display: table-caption;
+
+				position: relative;
+		}
+			#CD{
+				display: table-caption;
+				position: relative;
+				margin-left: 850px;
+		}
+
+
+			#rodape{
+				background-color: blue;
+				color: white;
+				position: relative;
+		}
+			footer{
+				font-size: 12px;
+				text-align: center;
+				position: relative;
+		}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1 id="Quiz"> Quiz de Matemática </h1>
+			<hr>
+			<a href="Quiz01 (1).html" id="linkQuiz"> Iniciar Quiz </a>
+			<a href="Podio (1).html" id="linkPodio"> Podio </a> 
+
+		</header>
+		<main>
+			
+			<span id="CE">
+				<img src="Confetes Esquerda.gif" alt="confete esquerda">
+			</span>
+
+			<span id="CD">
+				<img src="Confetes Direita.gif"  alt="confete direita">
+			</span>
+		</main>
+		<footer>
+			<h2 id="rodape"> Desafie você mesmo </h2>
+		</footer>
+	</body>
+</html>
