@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html lang="pt br">
+	<head>
+		<meta charset ="UTF-8">
+		<title> 
+			 Quiz
+		</title>
+		<style>
+
+			body{
+				background-image: url(Fundomatematica.jpg);
+		}
+			#questao{
+				color: white;
+				font-size: 20px;
+		}
+			#Questão{
+				height: 500px
+				widht: 550px;
+		}
+			#pergunta{
+				color: white;
+				font-size: 20px;
+			}
+
+			.Pergunta{
+				color: white;
+				font-size: 20px;
+			}
+			#RE{
+				widht: 400px;
+				height: 400px;
+				margin-left: 700px;
+				margin-top: 150px;
+			}
+		
+			#linkQuiz{
+				
+				background-color: red;
+				margin: 10px;
+				border-radius: 20px;
+				color: black;
+				text-align: center;
+				position: center;
+				margin-left: 510px;
+				font-size: 50px;
+
+		}
+			#linkQuiz: hover{
+				cursor: pointer;
+				background-color: orange;
+				margin: 10px;
+				border-radius: 20px;
+				color: white;
+				position: center;
+
+		}
+			#linkPodio{
+				
+				background-color: green;
+				margin: 10px;
+				border-radius: 20px;
+				color: black;
+				text-align: center;
+				margin-left: 50px;
+				font-size: 50px;
+				
+
+		}
+			#linkPodio: hover{
+				cursor: pointer;
+				background-color: orange;
+				margin: 10px;
+				border-radius: 20px;
+				color: white;
+
+		}
+
+			#rodape{
+				background-color: blue;
+				color: white;
+				position: relative;
+		}
+			footer{
+				font-size: 12px;
+				text-align: center;
+				position: relative;
+		}
+		</style>
+		</head>
+		<body>
+		<header>
+			<h1 id="questao"> Proxima Questão: </h1>
+			<a href="Quiz03.html" id="linkPodio"> Questão 3 </a> 
+			
+		</header>
+		<main>
+			<img src="RespostaE.png" id="RE" alt="EROU!">
+		</main>
+		<footer>
+
+		</footer>
+	</body>
+</html>
