@@ -88,8 +88,8 @@
 		<header>
 			<h1 id="Quiz"> Quiz de Matemática </h1>
 			<hr>
-			<a href="Quiz01 (1).html" id="linkQuiz"> Iniciar Quiz </a>
-			<a href="Podio (1).html" id="linkPodio"> Podio </a> 
+			<a href="Quiz01.html" id="linkQuiz"> Iniciar Quiz </a>
+			<a href="Podio.html" id="linkPodio"> Podio </a> 
 
 		</header>
 		<main>
