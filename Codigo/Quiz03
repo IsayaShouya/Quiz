@@ -88,7 +88,7 @@
 			
 		</header>
 		<main>
-			<img src="grafico03.png" id="Questão" alt="Questão01">
+			<img src="imagem/grafico03.png" id="Questão" alt="Questão01">
 			<h2 id="pergunta"> Qual é a função que representa este gráfico ? </h2>
 			<a href="Resposta Certa3.html" class="Pergunta"> A) Fx = -4x +4 </a> <h1> </h1>
 			<a href="Resposta Errada3.html" class="Pergunta"> B)  Fx = -4x +1 </a> <h1> </h1>
