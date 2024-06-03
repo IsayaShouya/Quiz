@@ -91,7 +91,7 @@
 		<body>
 		<header>
 			<h1 id="questao"> Você foi incrivel ! </h1>
-			<a href="Página Home (1).html" id="linkPodio"> Finalizar </a> 
+			<a href="Página Home.html" id="linkPodio"> Finalizar </a> 
 			
 		</header>
 		<main>
