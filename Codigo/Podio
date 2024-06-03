@@ -81,8 +81,8 @@
 	</head>
 	<body>
 		<header>
-			<a href="Página Home (1).html" id="linkQuiz"> Página Inicial </a>
-			<a href="Quiz01 (1).html" id="linkPodio"> Iniciar Quiz </a> 
+			<a href="Página Home.html" id="linkQuiz"> Página Inicial </a>
+			<a href="Quiz01.html" id="linkPodio"> Iniciar Quiz </a> 
 
 		</header>
 		<main>
