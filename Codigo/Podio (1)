@@ -87,7 +87,7 @@
 		</header>
 		<main>
 			
-			<img src="Podioimg.png"  id="imgP" alt="1° Lugar: Junio .        2° Lugar:  Luis Carlos  .      3° Lugar: Jão .          ">
+			<img src="imagem/Podioimg.png"  id="imgP" alt="1° Lugar: Junio .        2° Lugar:  Luis Carlos  .      3° Lugar: Jão .          ">
 			<p class="Lugares"> 1° Lugar:
 			 Junio </p>
 			<p class="Lugares"> 2° Lugar: 
